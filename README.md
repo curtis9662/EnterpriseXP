@@ -1,6 +1,6 @@
 # 👋 Curtis Jones  
 **Cloud Security Architect | IAM/PAM Strategist | Cybersecurity Engineer**  
-📍 Durham, NC · ✉️ Curtis9662@gmail.com · 📱 919-395-5940  
+📍 Durham, NC · ✉️ Help@blacte4c.biz · 📱 919-***-59**  
 
 ---
 
