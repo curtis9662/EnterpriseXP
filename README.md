@@ -11,7 +11,7 @@ With over **17 years of experience** in **Identity & Access Management (IAM)**, 
 - **IAM/PAM Roadmap & Strategy**
 - **Azure / AWS / GCP Cloud Security Architecture**
 - **DevSecOps & Shift Left Security**
-- **Compliance & Governance** (HIPAA, HITRUST, PCI-DSS, FedRAMP, SOC 2, GDPR)
+- **Compliance & Governance** (HIPAA, HITRUST, PCI-DSS, FedRAMP, SOC 2, GDPR) GRC Audit Experience End-To-End Evidence Development & Submission 
 - **Vulnerability Management** and **Threat Modeling**
 - **Incident Response**, **Security Documentation**, and **Automation**
 
