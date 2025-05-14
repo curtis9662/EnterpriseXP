@@ -31,6 +31,7 @@ With over **18 years of experience** in **Identity & Access Management (IAM)**, 
 - 📜 **CISSP**, **Security+**, **CEH**, **CCNA**
 - ☁️ **AWS Security Specialty**, **AWS Solutions Architect – SP**
 - 🛡 **AZ-500 Microsoft Security Engineer Associate**
+- 📐 **SC-100: Microsoft Cybersecurity Architect**
 - 🛠 **Terraform Associate (003) v3**
 - 🧬 **Information Security Architect – NYU Langone**
 - 📐 **Usable Security & UI/UX – Univ. of Maryland**
