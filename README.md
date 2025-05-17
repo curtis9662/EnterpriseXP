@@ -68,46 +68,64 @@ _Tools, pipelines, and templates for integrating security early in CI/CD._
 
 _“Secure the architecture, enable the business.”_
 
-raw CL:
+<h1>Curtis Jones</h1>
+<p>Durham, NC 27703<br>
+919-***-59**</p>
 
-Curtis Jones
-Durham, NC, 27703
-919-***-59**
+<h2>Professional Statement</h2>
+<p>
+With approximately 18 years of experience spanning Identity and Access Management (IAM), Network Archtiecture/Engineering, Cybersecurity, and Scalability Forecasting; I've cultivated an in-depth understanding of enterprise security architectures, compliance frameworks, and the operational challenges of securing hybrid and cloud-native environments. My expertise integrates both strategic planning and hands-on engineering, with a focus on aligning cybersecurity capabilities to organizational risk tolerance (analysis), business objectives, and regulatory mandates.
+</p>
 
+<p>
+Over the course of my career—serving Public and Privatized clients and employers such as DoD, IMPLUS, Humana, IBM dba (Apptio), OptumRx dba (CPS), and Gallagher —I have led security integration efforts during M&A activities that encompassed over 1,400 sites, 20 brands, and thousands of endpoints and APIs. These migrations were executed within securely governed environments using Azure, AWS,and GCP cloud services (e.g., CloudWatch, CloudTrail, GuardDuty, Azure Defender, Sentinel, AZ CLI), as well as open-source tools including ZAP Proxy, Burp Suite, and Nmap. In doing so, I directly managed the protection of more than 71,000 users and 12,000 endpoints across diverse business units.
+</p>
 
-With over 17 years of experience in IAM, Network Engineering & Cybersecurity, I possess a deep understanding of security compliance frameworks, best practices, and technologies, coupled with a proven track record of designing, implementing, and managing secure cloud / hybrid Enterprise environments. Throughout my career, I have consistently demonstrated a strong ability to protect organizations from ever evolving cybersecurity threats and vulnerabilities. 
-My expertise in cloud security architecture, identity and access management (IAM), vulnerability management, blue/red/purple team ops, admin.microsoft.com / console.aws.amazon.com engineering, and GRC assessment/attestations; has enabled me to categorize and safeguard critical data, systems, and applications, drastically reducing our threat landscape for a range of clients across various industries. In my previous information security roles at IMPLUS, Apptio, CPS & Gallagher, I spearheaded the migration of 20 brands & 1,400+ sites & API endpoints during M&A projects, ensuring seamless integration and adherence to stringent security standards, utilizing AWS/AZURE (Cloud Watch, Cloud Trail, GuardDuty, CodeGuru, Defender, Sentinel, Portal, Compliance, & AZ cli) zapproxy, burp, zenmap, nmap, ide’s & browser devtools. This project involved managing over 7,000 internal users, 12,000 devices, and a vast amount of business data. 
-I meticulously prioritized data sources, identified assets and risks, designed a target security architecture, developed threat models, pioneered the shift left project approach and developed a comprehensive migration plan. My responsibilities extended to implementing the security and IAM migration plan, continuously monitoring and testing the migrated environment, reporting security posture to the CIO/CEO and updating security policies and procedures to align with the new Azure architecture. 
-Additionally, I developed security documentation and portals for employee education and training, and collaborated with third-party vendors to ensure compliance with security standards across all Azure, AWS, GCP-connected assets.. Beyond my technical expertise, I bring strong communication and collaboration skills to the organization.
- I am adept at translating complex technical concepts into clear and concise language, fostering effective communication with non-technical stakeholders and gaining trust for business systems and security initiatives. My unwavering commitment to due diligence has been instrumental in ensuring that potential acquisitions adhere to the highest security standards. I have a proven track record of documenting baseline security controls, policies, and procedures, as well as identifying and addressing known and outstanding security vulnerabilities. 
-I am confident that my extensive experience, deep understanding of network and cloud security principles, and proven ability to deliver secure solutions align perfectly with this role. I am eager to contribute my expertise to your team and help achieve your clients Business objectives and align IAM/PAM Information Technology with our Cybersecurity Architecture, Framework Compliance Attestation, FedRAMP & GRC goals. 
-Thank you for considering my application. I look forward to discussing my qualifications further and demonstrating how I can add value to your organization's stakeholders and clients.
+<p>
+Beyond implementation, I have played a central role in defining and executing enterprise-level IAM/PAM, CI/CD, IAC, DevOps, and Application Security roadmaps, driving strategic alignment between security architecture and business risk posture. My methodology integrates asset prioritization, risk identification, threat modeling, and architecture design, all underpinned by robust governance and continuous monitoring. I have reported directly to C-level leadership, built internal portals for employee training and documentation, and led vendor collaborations to ensure third-party compliance across all assets connected to AWS, Azure, and GCP.
+</p>
 
+<p>
+I also bring a commitment to communication and organizational change management. I specialize in translating complex technical concepts into business-aligned action items, enabling stakeholders to engage with cybersecurity initiatives that protect and promote their enterprise goals without disturbing business relationships or work flows. My contributions have supported successful GRC audits, security policy refinement, and executive-level cybersecurity attestation 
+</p>
 
+<h2>Certifications & Training</h2>
+<ul>
+  <li>CompTIA Security+, CISSP, CCNA, CEH</li>
+  <li>AWS Certified Security Specialty</li>
+  <li>Okta Deployment Specialist, AWS SP</li>
+  <li>AZ-500 Azure/Entra Security Engineer Associate</li>
+ <li>SC-100: Microsoft Cybersecurity Architect</li>
+  <li>Information Security Architect – NYU Langone</li>
+  <li>Usable Security UI/UX Design – University of Maryland</li>
+  <li>Enterprise and Infrastructure Security – NYU</li>
+  <li>CCNA 200-101 – DoD Network Operations</li>
+  <li>VENAFI PKI Administrator</li>
+  <li>Terraform Associate v3 (003)</li>
+</ul>
 
-Completed Certifications and Training:
-CompTIA Security+, CISSP,CCNA, CEH
-AWS Security Specialty
-Okta Deployment Specialist
-AWS SP
-AZ-500 Az./Entra Security Engineer Assoc.
-Information Security Architect, NYU Langone
-Usable Security UI/UX Design Univ. MD
-Enterprise and Infrastructure Security, NYU
-CCNA 200-101 DoD Network Operations
-VENAFI PKI Administrator
-Terraform Associate (003) v3 (DevOps)
+<h2>Specializations</h2>
+<ul>
+  <li>Cloud/Security/Solution Architecture (Azure, GCP, AWS)</li>
+  <li>IAM/PAM Roadmapping, Development & Enablement</li>
+  <li>Strategic Security Planning & Governance Execution</li>
+  <li>Regulatory Compliance (HIPAA, GDPR, HITRUST, PCI-DSS, SOX, SOC 2)</li>
+  <li>Disaster Recovery & Business Continuity (DRBC), Scalability forecasting, Threat Modeling for Attack surface minimalization.</li>
+  <li>Senior Leadership Collaboration and Technical Enablement</li>
+</ul>
 
-Cloud/Security/Solution Architecture (Azure, GCP, AWS)
-IAM/PAM Roadmap, Development, Strategizing, Enablement & Implementation
-Strategic IT Security Planning, Development, and Execution
-Regulatory Compliance (HIPAA, GDPR, HITRUST, PCI-DSS, SOX, SOC2)
-DRBC
-Senior Level Enablement & Collaborative Leadership
+<h2>Lab & Project Contributions</h2>
+<p>
+I have designed and operated <strong>Azure Labs</strong> to support real-time configuration testing and enable hands-on learning for cloud engineers and security analysts. These labs provide secure sandboxed environments for validating architectural decisions. 
+</p>
+<p>
+You can explore my projects and platforms on <a href="https://github.com/users/curtis9662/">GitHub</a>. For detailed insights into my security engineering initiatives, please refer to my <a href="https://blactec.biz/cloud_security/">Microsoft Security Enablement Log</a> and my <a href="http://curtis9662.github.io/">Cloud Security Documentation</a>.
+</p>
 
-I have also developed and managed Azure Labs, providing a hands-on learning environment for Azure configurations accessible via My Azure Labs. More about my projects and platforms can be found on my GitHub here.
-For further details on my projects and contributions to cybersecurity, please visit my Microsoft Security Enablement Log and my documentation on Cloud Security Log..
-Thank you for considering my application. I am eager to bring my strategic vision and technical expertise to your organization, fostering innovation and securing our digital future.
-Sincerely,
-Curtis Jones
+<h2>Closing</h2>
+<p>
+Thank you for taking the time to review my background and experience. I am confident that my multidisciplinary expertise, proven leadership in IAM and cloud security, and commitment to compliance excellence can bring strategic value to your organization and its clients. I look forward to an opportunity to contribute to your mission and secure the digital future we share.
+</p>
 
+<p>Sincerely,<br>
+Curtis Jones</p>
