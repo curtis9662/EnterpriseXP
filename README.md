@@ -125,6 +125,10 @@ You can explore my projects and platforms on <a href="https://github.com/users/c
 <h2>Closing</h2>
 <p>
 Thank you for taking the time to review my background and experience. I am confident that my multidisciplinary expertise, proven leadership in IAM and cloud security, and commitment to compliance excellence can bring strategic value to your organization and its clients. I look forward to an opportunity to contribute to your mission and secure the digital future we share.
+
+  p.s. My HITRUST Expectations
+  <img width="1899" height="657" alt="image" src="https://github.com/user-attachments/assets/f468a75c-34a9-40ae-aa2f-bb1189b6205d" />
+
 </p>
 
 <p>Sincerely,<br>
